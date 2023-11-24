@@ -1,16 +1,15 @@
 {
-    "name":"aplicación web progresiva",
-    "short_name":"Suleyma Cerrito",
-    "description":"practica de la asignatura de aplicaciones web",
-    "background_color":"#FFF",
-    "theme_color":"#FB314E",
-    "orientation":"portrait",
-    "display":"standalone",
-    "start_url":"./index.html?utm_source=web_app_manifest",
-    "scope":"./",
-    "lang":"es-ES",
-    "icons":
-    [
+    "name": "Aplicación web progresiva",
+    "short_name": "Suleyma Sinai Cerrito Peña",
+    "description": "Practica de la asignatura de aplicaciones web",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "portatil",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-ES",
+    "icons":[
         {
             "src":"./img/sule-1024.jpg",
             "sizes": "1024x1024",
